@@ -107,7 +107,7 @@ nav li a{
     width: 73%;
     max-width: 865px;
     margin: 20px auto;
-    border: 2px solid green;
+    /* border: 2px solid green; */
     justify-content: space-between;
     
 }
