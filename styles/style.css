@@ -101,18 +101,21 @@ nav li a{
 
 /* social media */
 
-.social-meadia-img-container{
-    padding: 20px 120px ;
+.social-meadia-img-container {
+    
     display: flex;
-  width: 73%;
-  max-width:865px ;
-  margin:20px auto;
-  /* border:2px solid green; */
-  justify-content: space-between;
-  align-items: center;
+    width: 73%;
+    max-width: 865px;
+    margin: 20px auto;
+    border: 2px solid green;
+    justify-content: space-between;
+    
 }
 
-.social-meadia-img-container .img img{width: 100%;}
+
+
+
+ /* .social-meadia-img-container img{width: 20%;} */
 
 @media screen and (max-width:676px) {
     nav , nav ul{
