@@ -105,9 +105,10 @@ nav li a{
         justify-content: center;
         align-items: center;
         margin-bottom: 20px;
-        padding:20px 0px 
+        padding:20px 20px 
     }
-
+     
+    
     .influencer-container {
        
         flex-direction: column-reverse;
