@@ -107,10 +107,28 @@ nav li a{
     width: 73%;
     max-width: 865px;
     margin: 20px auto;
-    /* border: 2px solid green; */
+    border: 2px solid green;
     justify-content: space-between;
     
 }
+
+
+.social-img{
+    width:70px;
+    /* border:2px solid red; */
+    margin-right:10px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+
+.social-img img{
+    width:100%;
+}
+
+
+
 
 
 
@@ -159,8 +177,8 @@ nav li a{
         flex-wrap: wrap;
     }
 
-
+/* 
     .social-meadia-img-container .img {
         margin-right:10px;
-    }
+    } */
 }
