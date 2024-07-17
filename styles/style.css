@@ -102,30 +102,31 @@ nav li a{
 /* social media */
 
 .social-meadia-img-container {
-    
+   
+   padding: 20px 20px;
     display: flex;
     width: 73%;
     max-width: 865px;
     margin: 20px auto;
-    /* border: 2px solid green; */
+    /* border:1px solid black; */
     justify-content: space-between;
+   border-top:1px solid #b8bfc7a4;
+   border-bottom:1px solid #b8bfc7a4;
     
 }
 
 
 .social-img{
-    width:70px;
+    width:50px;
     /* border:2px solid red; */
-    margin-right:10px;
+    /* margin-right:10px; */
     display: flex;
     justify-content:space-between;
     align-items: center;
 }
 
 
-.social-img img{
-    width:100%;
-}
+
 
 
 
@@ -177,8 +178,7 @@ nav li a{
         flex-wrap: wrap;
     }
 
-/* 
-    .social-meadia-img-container .img {
-        margin-right:10px;
-    } */
+    .social-img img{
+        width:50%;
+    }
 }
