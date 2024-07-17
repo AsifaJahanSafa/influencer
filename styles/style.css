@@ -110,6 +110,7 @@ nav li a{
     .influencer-container {
        
         flex-direction: column-reverse;
+        padding: 20px 20px;
     }
 
 
@@ -121,5 +122,10 @@ nav li a{
     .influencer-text {
         max-width: 413px;
         text-align: center;
+    }
+
+    .influencer-title {
+        font-size:19px;
+       
     }
 }
