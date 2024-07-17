@@ -107,7 +107,7 @@ nav li a{
     width: 73%;
     max-width: 865px;
     margin: 20px auto;
-    border: 2px solid green;
+    /* border: 2px solid green; */
     justify-content: space-between;
     
 }
@@ -170,7 +170,7 @@ nav li a{
 
 
     .social-meadia-img-container {
-        padding: 20px 20px;
+        padding: 20px 0px;
        
       
       
