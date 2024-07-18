@@ -180,15 +180,17 @@ nav li a{
     }
 
     .social-img img{
-        width:50%;
+        width:100%;
+      
     }
 
     .social-meadia-img-container {
-        display: grid;
-        grid-template-columns:repeat(4,1fr);
-        grid-template-rows: 50px;
-
+        display: FLEX;
+        flex-direction: row;
+        justify-content: center;
         margin-bottom: 20px;
-      grid-column:4 ;
+        gap: 20px;
     }
+
+  
 }
